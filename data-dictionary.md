@@ -7,8 +7,6 @@ This data dictionary describes the cleaned, standardised tables produced by the 
 - Tables are stored in **long format** where applicable: one row per entity per `year` (and `coffee_type` where relevant).
 - `value` fields are numeric measures. Missing values are retained where they represent “not reported” / “not applicable”.
 
-> **Units note:** Many coffee market datasets (e.g., ICO-style tables) are commonly reported in *thousand 60kg bags*. If your source uses different units, update the “Units” lines below to match your file documentation.
-
 ---
 
 ## Table: `prices`
