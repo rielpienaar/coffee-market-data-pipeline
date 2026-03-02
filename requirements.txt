@@ -1,0 +1,6 @@
+python
+pandas
+numpy
+sqlalchemy
+pymysql
+jupyter
