@@ -18,7 +18,6 @@ Green coffee price time series.
 |---|---|---|---|
 | `date` | DATE / DATETIME | Price date (day-grain). Stored without time-of-day significance. | `2025-01-15` |
 | `value` | FLOAT | Green coffee price for the given date. | `184.23` |
-| *(optional)* `currency_unit` | TEXT | If included in your source file, specify the unit (e.g., USD cents/lb). | `USc/lb` |
 
 **Primary key:** `date`  
 **Notes:** No missing values expected after cleaning; `date` should be unique.
