@@ -1,8 +1,26 @@
+# Environment / credentials
 .env
+
+# Python cache
 __pycache__/
 *.pyc
-*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
 *.parquet
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
 *.db
 *.sqlite
-.DS_Store
+
+# Virtual env
+venv/
+.env/
