@@ -9,7 +9,7 @@ This project builds a reproducible cleaning and loading pipeline for multi-sourc
 - Produce analytics-ready tables in MySQL for downstream querying and dashboarding
 
 ## Data Sources 
-- Source: Kaggle and coffee index websites
+- Source: Kaggle (https://www.kaggle.com/datasets/michals22/coffee-dataset) and coffee index websites
 - Green coffee prices
 - Production
 - Country Imports
